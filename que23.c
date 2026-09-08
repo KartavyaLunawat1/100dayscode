@@ -22,7 +22,7 @@ int main() {
         return 0;
     }
 
-    printf("Fine for %d days is: ₹%d\n", days, fine);
+    printf("Fine for %d days is: %d\n", days, fine);
     return 0;
 }
 
